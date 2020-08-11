@@ -1,4 +1,4 @@
-# twitter
+# twitter-clone using Vue.js
 
 ## Project setup
 ```
